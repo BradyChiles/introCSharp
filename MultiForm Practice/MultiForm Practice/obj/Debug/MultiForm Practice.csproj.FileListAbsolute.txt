@@ -1,0 +1,10 @@
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\bin\Debug\MultiForm Practice.exe.config
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\bin\Debug\MultiForm Practice.exe
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\bin\Debug\MultiForm Practice.pdb
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm Practice.csprojResolveAssemblyReference.cache
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm_Practice.MainForm.resources
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm_Practice.MessageForm.resources
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm_Practice.Properties.Resources.resources
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm Practice.csproj.GenerateResource.Cache
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm Practice.exe
+C:\DMACC\Spring 2017\C#\Assignments\MultiForm Practice\MultiForm Practice\obj\Debug\MultiForm Practice.pdb

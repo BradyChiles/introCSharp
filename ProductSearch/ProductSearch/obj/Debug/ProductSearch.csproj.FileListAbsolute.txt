@@ -1,0 +1,11 @@
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\bin\Debug\ProductSearch.exe.config
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\bin\Debug\ProductDB.mdf
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\bin\Debug\ProductDB_log.ldf
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\bin\Debug\ProductSearch.exe
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\bin\Debug\ProductSearch.pdb
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csprojResolveAssemblyReference.cache
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Form1.resources
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\obj\Debug\ProductSearch.Properties.Resources.resources
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\obj\Debug\ProductSearch.csproj.GenerateResource.Cache
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\obj\Debug\ProductSearch.exe
+C:\DMACC\Spring 2017\C#\Assignments\ProductSearch\ProductSearch\obj\Debug\ProductSearch.pdb

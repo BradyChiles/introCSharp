@@ -1,0 +1,9 @@
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\bin\Debug\BradyChilesUnit3.exe.config
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\bin\Debug\BradyChilesUnit3.exe
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\bin\Debug\BradyChilesUnit3.pdb
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\obj\Debug\BradyChilesUnit3.csprojResolveAssemblyReference.cache
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\obj\Debug\BradyChilesUnit3.Form1.resources
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\obj\Debug\BradyChilesUnit3.Properties.Resources.resources
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\obj\Debug\BradyChilesUnit3.csproj.GenerateResource.Cache
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\obj\Debug\BradyChilesUnit3.exe
+C:\DMACC\Spring 2017\C#\Assignments\BradyChilesUnit3\BradyChilesUnit3\obj\Debug\BradyChilesUnit3.pdb

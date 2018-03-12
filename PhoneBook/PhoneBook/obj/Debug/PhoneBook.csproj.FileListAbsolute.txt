@@ -1,0 +1,11 @@
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\bin\Debug\Phonelist.mdf
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\bin\Debug\Phonelist_log.ldf
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\obj\Debug\PhoneBook.PhoneBook.resources
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\DMACC\Spring 2017\C#\Assignments\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

@@ -1,0 +1,9 @@
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\bin\Debug\BirthDateString.exe.config
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\bin\Debug\BirthDateString.exe
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\bin\Debug\BirthDateString.pdb
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\obj\Debug\BirthDateString.csprojResolveAssemblyReference.cache
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\obj\Debug\BirthDateString.Form1.resources
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\obj\Debug\BirthDateString.Properties.Resources.resources
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\obj\Debug\BirthDateString.csproj.GenerateResource.Cache
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\obj\Debug\BirthDateString.exe
+C:\DMACC\Spring 2017\C#\Assignments\BirthDateString\BirthDateString\obj\Debug\BirthDateString.pdb
